@@ -1,1 +1,8 @@
 git clone https://github.com/skant1990it/demoProject.git
+for branch check: git branch
+for status: git status
+for add : git add new_file_name_with_path
+for commit : git commit -m "any message"
+for push : git push origin master/brach_name
+
+for pull : git pull origin branch_name
